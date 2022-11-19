@@ -6,7 +6,7 @@
     "@storybook/addon-knobs": "^5.2.8",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "^3.3.0",
+    "react-scripts": "^5.0.1",
     "styled-components": "^4.4.1",
     "styled-system": "^5.1.4"
   },
@@ -42,7 +42,7 @@
     "@storybook/addon-storyshots": "^5.2.8",
     "@storybook/addon-storysource": "^5.2.8",
     "@storybook/addons": "^5.2.8",
-    "@storybook/react": "^5.2.8",
+    "@storybook/react": "^6.5.13",
     "babel-loader": "^8.0.6",
     "react-test-renderer": "^16.12.0",
     "styled-svg": "^2.4.7"
